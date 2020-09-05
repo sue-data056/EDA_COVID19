@@ -26,9 +26,9 @@
 
 > ## 4. 분석 지표: 5년전의 우리나를 위협했던 메르스 바이러스 상황을 분석 지표로 삼아 기사 및 메거진 정독
 [매거진 사진 캡쳐]
-https://www.sedaily.com/NewsVIew/1Z2WWFRPUW
-https://biz.chosun.com/site/data/html_dir/2020/03/22/2020032200608.html
-https://news.joins.com/article/23695525
+* 관련 기사 1 : <https://www.sedaily.com/NewsVIew/1Z2WWFRPUW>
+* 관련 기사 2 : <https://biz.chosun.com/site/data/html_dir/2020/03/22/2020032200608.html>
+* 관련 기사 3 : <https://news.joins.com/article/23695525>
 
 > ## 5. 분석 예상 시간
 [사진 넣기 : 구글 쉬트에 있는 계획표 기반]
