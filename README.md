@@ -208,7 +208,6 @@
 
 > [유동 인구와 매출 증감량 관계]
 ![19 유동인구 매출](https://user-images.githubusercontent.com/68261338/92301465-18046080-ef9f-11ea-9b89-aa41dda04679.jpg)
-
 > [주민등록상 인구와 매출 증감량 관계]
 ![20 상주인구 매출](https://user-images.githubusercontent.com/68261338/92301467-189cf700-ef9f-11ea-9723-dab4756ddde7.jpg)
 
